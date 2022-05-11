@@ -1,0 +1,14 @@
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\bin\Debug\QuanLyThuocBenhVien.exe.config
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\bin\Debug\QuanLyThuocBenhVien.exe
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\bin\Debug\QuanLyThuocBenhVien.pdb
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\bin\Debug\QuanLyThuocBenhVien.xml
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\obj\Debug\QuanLyThuocBenhVien.vbproj.AssemblyReference.cache
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\obj\Debug\QuanLyThuocBenhVien.vbproj.SuggestedBindingRedirects.cache
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\obj\Debug\QuanLyThuocBenhVien.Form1.resources
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\obj\Debug\QuanLyThuocBenhVien.Resources.resources
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\obj\Debug\QuanLyThuocBenhVien.vbproj.GenerateResource.cache
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\obj\Debug\QuanLyThuocBenhVien.vbproj.CoreCompileInputs.cache
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\obj\Debug\QuanLyThuocBenhVien.exe
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\obj\Debug\QuanLyThuocBenhVien.xml
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\obj\Debug\QuanLyThuocBenhVien.pdb
+D:\VB.Net\QuanLyThuocBenhVien\QuanLyThuocBenhVien\obj\Debug\QuanLyThuocBenhVien.QuanLyThuocForm.resources

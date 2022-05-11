@@ -1,0 +1,13 @@
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\bin\Debug\BaiTapLapTrinhTrucQuan.exe.config
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\bin\Debug\BaiTapLapTrinhTrucQuan.exe
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\bin\Debug\BaiTapLapTrinhTrucQuan.pdb
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\bin\Debug\BaiTapLapTrinhTrucQuan.xml
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\obj\Debug\BaiTapLapTrinhTrucQuan.vbproj.AssemblyReference.cache
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\obj\Debug\BaiTapLapTrinhTrucQuan.vbproj.SuggestedBindingRedirects.cache
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\obj\Debug\BaiTapLapTrinhTrucQuan.Form1.resources
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\obj\Debug\BaiTapLapTrinhTrucQuan.Resources.resources
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\obj\Debug\BaiTapLapTrinhTrucQuan.vbproj.GenerateResource.cache
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\obj\Debug\BaiTapLapTrinhTrucQuan.vbproj.CoreCompileInputs.cache
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\obj\Debug\BaiTapLapTrinhTrucQuan.exe
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\obj\Debug\BaiTapLapTrinhTrucQuan.xml
+D:\VB.Net\BaiTapLapTrinhTrucQuan\BaiTapLapTrinhTrucQuan\obj\Debug\BaiTapLapTrinhTrucQuan.pdb

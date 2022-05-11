@@ -1,0 +1,13 @@
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\bin\Debug\BaiTapChuong3.exe.config
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\bin\Debug\BaiTapChuong3.exe
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\bin\Debug\BaiTapChuong3.pdb
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\bin\Debug\BaiTapChuong3.xml
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\obj\Debug\BaiTapChuong3.vbproj.AssemblyReference.cache
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\obj\Debug\BaiTapChuong3.vbproj.SuggestedBindingRedirects.cache
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\obj\Debug\BaiTapChuong3.Form1.resources
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\obj\Debug\BaiTapChuong3.Resources.resources
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\obj\Debug\BaiTapChuong3.vbproj.GenerateResource.cache
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\obj\Debug\BaiTapChuong3.vbproj.CoreCompileInputs.cache
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\obj\Debug\BaiTapChuong3.exe
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\obj\Debug\BaiTapChuong3.xml
+D:\VB.Net\BaiTapChuong3\BaiTapChuong3\obj\Debug\BaiTapChuong3.pdb
